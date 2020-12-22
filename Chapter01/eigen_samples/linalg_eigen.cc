@@ -1,5 +1,8 @@
 #include <Eigen/Dense>
 #include <iostream>
+#include <vector>
+
+using namespace std;
 
 typedef Eigen::Matrix<float, 3, 3> MyMatrix33f;
 typedef Eigen::Matrix<float, 3, 1> MyVector3f;
